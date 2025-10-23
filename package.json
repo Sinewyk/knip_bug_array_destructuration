@@ -1,0 +1,15 @@
+{
+	"name": "knip_bug_array_destructuration",
+	"version": "1.0.0",
+	"description": "",
+	"type": "module",
+	"scripts": {
+		"test": "knip"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"knip": "^5.66.2"
+	}
+}
